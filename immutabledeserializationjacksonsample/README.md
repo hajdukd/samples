@@ -7,3 +7,7 @@ Test suite contains usage examples.
 - [StdDeserializer](https://fasterxml.github.io/jackson-databind/javadoc/2.7/com/fasterxml/jackson/databind/deser/std/StdDeserializer.html)
 - [MixIn](https://fasterxml.github.io/jackson-databind/javadoc/2.7/com/fasterxml/jackson/databind/ObjectMapper.html#addMixIn(java.lang.Class,%20java.lang.Class))
 - [@JsonPOJOBuilder](https://fasterxml.github.io/jackson-databind/javadoc/2.7/com/fasterxml/jackson/databind/annotation/JsonPOJOBuilder.html)
+
+Requirements:
+
+- Maven 3.6.0+
